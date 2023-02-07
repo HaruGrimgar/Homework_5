@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\29\\OneDrive\\Рабочий стол\\geekbrains\\1 четверть\\2_Знакомство с языками програмирования\\5_lesson_homework\\2_Task\\2_Task.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\29\\OneDrive\\Рабочий стол\\geekbrains\\1 четверть\\2_Знакомство с языками програмирования\\5_lesson_homework\\2_Task\\2_Task.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\29\\OneDrive\\Рабочий стол\\geekbrains\\1 четверть\\2_Знакомство с языками програмирования\\5_lesson_homework\\2_Task\\2_Task.csproj",
+        "projectName": "2_Task",
+        "projectPath": "C:\\Users\\29\\OneDrive\\Рабочий стол\\geekbrains\\1 четверть\\2_Знакомство с языками програмирования\\5_lesson_homework\\2_Task\\2_Task.csproj",
+        "packagesPath": "C:\\Users\\29\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\29\\OneDrive\\Рабочий стол\\geekbrains\\1 четверть\\2_Знакомство с языками програмирования\\5_lesson_homework\\2_Task\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\29\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
